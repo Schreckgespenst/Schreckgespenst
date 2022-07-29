@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shikher@Schreckgespenst
 - 👀 I’m interested in computational astrophysics
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on open souurce projects on gallactic clusters
+- 💞️ I’m looking to collaborate on open source projects on gallactic clusters
 - 📫 How to reach me stark.induztries@gmail.com
 
 <!---
